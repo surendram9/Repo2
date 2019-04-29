@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 9C58-DF8B
-
- Directory of C:\Automation\git\Myproject
-
-04/28/2019  08:36 PM    <DIR>          .
-04/28/2019  08:36 PM    <DIR>          ..
-04/28/2019  08:36 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  643,803,295,744 bytes free
+test1
